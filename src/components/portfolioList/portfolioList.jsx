@@ -8,7 +8,7 @@ const portfolioList = () => {
       <div className="pl-texts">
           <h1 className='pl-title'>Mine Projekter</h1>
           <p className='pl-desc'>
-              Disse er nogle af mine projekter, som jeg i min fritid og gennem min skoletid har lavet.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis eros in tortor tristique mattis. Suspendisse sollicitudin mauris a dignissim aliquam. Etiam non fermentum orci. Integer suscipit luctus nisl. Ut venenatis placerat risus in posuere. Fusce in euismod lectus. Mauris ut iaculis sapien
           </p>
       </div>
       <div className="pl-list">
