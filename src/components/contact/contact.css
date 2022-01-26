@@ -1,0 +1,46 @@
+.c {
+  height: 50vh;
+  position: relative;
+}
+
+.c-bg {
+  width: 30px;
+  height: 100%;
+  background-color: #373837;
+  position: absolute;
+}
+
+.c-wrapper {
+  padding: 70px 100px;
+}
+
+.c-left {
+  flex: 1;
+}
+
+.c-right {
+  flex: 1;
+}
+
+.c-info {
+  padding: 20px 0px;
+}
+
+.c-desc {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.c-email i {
+  font-size: 1.5rem;
+}
+
+.c-email a {
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.c-info a {
+  color: black;
+  padding-left: 10px;
+}
