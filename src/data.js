@@ -2,7 +2,7 @@ export const projects = [
     {
         id: 1,
         img: "/img/aao2.png",
-        link: "https://hougesen-aaoadmin-93tg8.ondigitalocean.app/dashboard",
+        link: "https://github.com/hougesen/web-project1",
         title: "Alex Andersen Ølund",
         desc: "Administrationspanel lavet i ASP.NET"
     },
