@@ -14,7 +14,7 @@ function Intro() {
                             <div className="i-title-item">HTML & CSS</div>
                             <div className="i-title-item">Tailwind</div>
                             <div className="i-title-item">JavaScript</div>
-                            <div className="i-title-item">ASP.NET</div>
+                            <div className="i-title-item">C#</div>
                             <div className="i-title-item">React.js</div>
                         </div>
                     </div>
