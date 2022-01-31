@@ -9,12 +9,16 @@ const Contact = () => {
           <h1 className="c-title">Interesseret i at høre mere?</h1>
           <p className="c-desc">Så kan jeg kontaktes på følgende</p>
           <div className="c-info">
-            <div className="c-email">
-              <i class="far fa-envelope"></i>
+            <div className="c-icon">
+              <i class="far fa-envelope fa-fw"></i>
               <a href="mailto:filip@filipsmedia.dk">filip@filipsmedia.dk</a>
             </div>
-            <div className="c-loc">
-              <i class="fas fa-map-marker-alt"></i>
+            <div className="c-icon">
+              <i class="fas fa-phone-alt fa-fw"></i>
+              <p>+45 22 27 99 86</p>
+            </div>
+            <div className="c-icon">
+              <i class="fas fa-map-marker-alt fa-fw"></i>
               <p>Odense C</p>
             </div>
           </div>
