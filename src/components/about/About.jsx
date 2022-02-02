@@ -15,12 +15,22 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">Lidt om mig</h1>
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur.
+          Rutineret gamer der, når han ikke sidder foran computeren, går ude på
+          golfbanen, træner i fitness og ind i mellem prøver at ramme en smash i
+          padel tennis. Ellers er jeg smilende, en god teamplayer, konkurrence
+          menneske og habil dust2 spiller. Ved siden af studiet underviser jeg
+          nemlig i CS:GO ved Odense Esport.
+          <br />
+          <br />
+          Jeg har igennem tiden fået erfaringer med
+          <strong> HTML</strong> & <strong>CSS</strong>,
+          <strong> JavaScript</strong>, frontend-frameworks som
+          <strong> React</strong> og
+          <strong> Vue.js</strong>, samt<strong> C#</strong> og{" "}
+          <strong> .NET</strong>. Derudover har jeg lavet lidt freelance arbejde
+          med <strong>WordPress</strong>, hvor jeg også i flere projekter har
+          udviklet custom themes i WordPress med
+          <strong> PHP</strong>.
         </p>
         <div className="button">
           <a href={Pdf} without rel="noopener noreferrer" target="_blank">
