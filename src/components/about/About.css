@@ -80,8 +80,8 @@ button:hover {
   .a {
     flex-direction: column;
     text-align: center;
-    height: 100vh;
     margin-top: 70%;
+    height: fit-content;
   }
 
   .a-left {

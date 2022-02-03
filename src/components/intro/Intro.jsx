@@ -31,10 +31,7 @@ function Intro() {
               webdesign. Da jeg snart er færdig med min bachelor, er jeg på
               udkig efter et <strong>praktiksted</strong>. Jeg er sulten efter
               at komme igang og benytte mine kompetencer til at skabe noget{" "}
-              <strong>fedt</strong>. Jeg har en
-              "det-har-jeg-ikke-prøvet-før-så-det-kan-jeg-sikkert-godt" tilgang
-              til tingene, og så lever jeg for at tilegne mig{" "}
-              <strong>ny viden.</strong>
+              <strong>fedt</strong>.
             </p>
           </div>
 

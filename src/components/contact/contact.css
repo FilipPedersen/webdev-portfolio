@@ -53,4 +53,7 @@ p {
   .c-wrapper {
     padding: 30px 15px;
   }
+  .c {
+    height: 0;
+  }
 }
