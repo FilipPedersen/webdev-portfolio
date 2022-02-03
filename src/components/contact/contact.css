@@ -44,9 +44,9 @@
 }
 
 .c-info a,
-p {
+.c-info p {
   color: black;
-  font-size: 1.25rem;
+  font-size: 1.3rem;
 }
 
 @media screen and (max-width: 480px) {
