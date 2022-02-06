@@ -9,7 +9,11 @@ const About = () => {
       <div className="a-left">
         <div className="a-card bg"></div>
         <div className="a-card">
-          <img src={aboutme} alt="" className="a-img" />
+          <img
+            src={aboutme}
+            alt="Filip i en Odense Esport trøje"
+            className="a-img"
+          />
         </div>
       </div>
       <div className="a-right">

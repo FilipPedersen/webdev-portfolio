@@ -21,7 +21,7 @@ function Intro() {
           <div className="intro-m-right">
             <div className="i-m-right-wrapper">
               <div className="i-m-bg"></div>
-              <img src={Me} alt="" className="i-m-img" />
+              <img src={Me} alt="Introbillede" className="i-m-img" />
             </div>
           </div>
           <div className="i-desc">
