@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 import aboutme from "../../img/noccosh.png";
-import Pdf from "../../Documents/Cv.pdf";
+import Pdf from "../../Documents/webdev-cv.pdf";
 
 const About = () => {
   return (
