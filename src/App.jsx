@@ -10,7 +10,6 @@ const App = () => {
       <About />
       <PortfolioList />
       <Contact />
-      <h1>Hello World</h1>
     </div>
   );
 };
