@@ -4,12 +4,15 @@ import PortfolioList from "./components/portfolioList/portfolioList";
 import Contact from "./components/contact/contact";
 
 const App = () => {
-  return <div>
-    <Intro/>
-    <About/>
-    <PortfolioList/>
-    <Contact />
-  </div>;
+  return (
+    <div>
+      <Intro />
+      <About />
+      <PortfolioList />
+      <Contact />
+      <h1>Hello World</h1>
+    </div>
+  );
 };
 
 export default App;
